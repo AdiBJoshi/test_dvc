@@ -1,0 +1,4 @@
+outs:
+- md5: bea8bfa6f3f39816ffd95c091a534cf0
+  size: 163
+  path: sample_code.py
